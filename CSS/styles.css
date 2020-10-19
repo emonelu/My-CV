@@ -205,7 +205,7 @@ span{margin :auto}
     padding-left: 100px;
     padding-bottom: 50px;
     padding-top: 50px;
-    margin: none;
+    
   }
 
   .bottom-container{
@@ -215,6 +215,7 @@ span{margin :auto}
     padding-bottom: 50px;
     padding-top: 50px;
     background-color: #0f8383;
+    margin-top: 30px;
     
   }
 
